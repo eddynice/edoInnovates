@@ -1,0 +1,20 @@
+{
+  "name": "webdev",
+  "version": "1.0.0",
+  "description": "a new beginning at edo innovate",
+  "main": "index.html",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "github.com/eddynice/edoInnovates"
+  },
+  "keywords": [
+    "A",
+    "new",
+    "beginning"
+  ],
+  "author": "osareniye osazee",
+  "license": "ISC"
+}
